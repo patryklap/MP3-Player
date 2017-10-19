@@ -1,0 +1,17 @@
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\obj\x86\Debug\odtwarzacz.csproj.ResolveComReference.cache
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\obj\x86\Debug\odtwarzacz.Form1.resources
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\obj\x86\Debug\odtwarzacz.Properties.Resources.resources
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\obj\x86\Debug\odtwarzacz.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\bin\Debug\odtwarzacz.exe
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\bin\Debug\odtwarzacz.pdb
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\bin\Debug\Interop.WMPLib.dll
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\obj\x86\Debug\odtwarzacz.exe
+C:\Users\TEMP.VLO30-18.002\AppData\Local\Temporary Projects\odtwarzacz\obj\x86\Debug\odtwarzacz.pdb
+C:\Users\TEMP.VLO30-18.002\documents\visual studio 2010\Projects\odtwarzacz\odtwarzacz\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\TEMP.VLO30-18.002\documents\visual studio 2010\Projects\odtwarzacz\odtwarzacz\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\TEMP.VLO30-18.002\documents\visual studio 2010\Projects\odtwarzacz\odtwarzacz\obj\x86\Debug\odtwarzacz.csproj.ResolveComReference.cache
+C:\Users\TEMP.VLO30-18.002\documents\visual studio 2010\Projects\odtwarzacz\odtwarzacz\obj\x86\Debug\odtwarzacz.exe
+C:\Users\TEMP.VLO30-18.002\documents\visual studio 2010\Projects\odtwarzacz\odtwarzacz\obj\x86\Debug\odtwarzacz.pdb
